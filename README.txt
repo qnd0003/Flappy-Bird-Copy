@@ -1,12 +1,12 @@
 flappy bird copy in PyGame
-12/29/2020 - 1/3/2021
 
-Make sure to have pygame install using # pip install pygame
+requirements
+-pygame
 
 usage:
-	python flapp.py
+-python3 flapp.py
 
-todos:
--	sound
-- score in the center
-- rotate the bird when fly or drop
+improvements
+-sound
+-score in the center
+-rotate the bird when fly and drop
